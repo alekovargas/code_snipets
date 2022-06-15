@@ -101,6 +101,7 @@ support operators, intersection, difference.
 ```python
 vowels = { 'a', 'e', 'i', 'o', 'u' }
 vowels = set('aeiou')
+set() # is an empty set 
 ```
 
 

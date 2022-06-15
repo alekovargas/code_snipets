@@ -26,13 +26,14 @@ to the `return` statement is passed back to your calling code.
 
 is always false if: evaluate to zero, empty list, empty dictionary, "None" value.
 
-```bash
+```shell
 >>> bool(0)
 False
 
 >>> bool(1)
 True
 ```
+
 
 
 
