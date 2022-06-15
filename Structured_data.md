@@ -96,20 +96,13 @@ Dictionary lookup is fast. ( thanks to a highly optimized hashing algorithm).
 #### 2.5 Set 
 can grow or shrink on demand.
 ensure that none of the objects are duplicated.
-support operators,  Intersection, difference,  
+support operators, intersection, difference.
+
 ```python
 vowels = { 'a', 'e', 'i', 'o', 'u' }
 vowels = set('aeiou')
 ```
 
 
-### 2) Structured Data 
 
-
-### EXTRAS
-
-* += for increment
-* -= for decrement 
-* '' for short strings 
-* "" for natural language messages 
 
