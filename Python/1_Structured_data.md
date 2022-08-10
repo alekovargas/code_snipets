@@ -31,6 +31,7 @@ Example:
 prices = []
 odds = [1,3,5,7,9]
 car = ['BMW', 2020, 2.2 ]
+lista = list()
 ```
 Methods:
 
@@ -65,6 +66,7 @@ a tuple is a constant list
 ```python
 vowels = ( 'a', 'e', 'i', 'o', 'u' )
 vowels = ('aeiou' ,) # trailing comma makes is a tuple 
+tupla = tuple()
 ```
 
 
@@ -83,6 +85,7 @@ person3 = { 'Name': 'Ford Prefect',
             'Gender':'Male',
             'Occupation': 'Researcher', 
             'Home Planet':'Betelgeuse Seven' }
+diccionario = dict() 
 ```
 ```bash
 >>> person3['Name']
@@ -102,6 +105,9 @@ support operators, intersection, difference.
 vowels = { 'a', 'e', 'i', 'o', 'u' }
 vowels = set('aeiou')
 set() # is an empty set 
+
+string_obj = "blabla"
+setfromstring = set(string_obj)
 ```
 
 

@@ -7,6 +7,11 @@ For an input text
 word = input("provide a input in console: ")
 ```
 
+```bash
+>>> help(funtion_name) 
+# return the annotation and docstring
+```
+
 ### notes
 
 * += for increment
@@ -24,6 +29,8 @@ word = input("provide a input in console: ")
 - Constant: CONSTANT, MY_CONSTANT 
 - Module: module.py, my_module
 - Package: package, mypackage
+
+### PEP 257 recomendation for docstrings  
 
 ### Readme.md
 
