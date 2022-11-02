@@ -1,7 +1,7 @@
 import numpy as np 
 
 def myfuntion():
-    test = "main"
+    test = "main nuevo"
     return test
 
 if __name__ == "__main__":
